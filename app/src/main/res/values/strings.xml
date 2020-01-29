@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">App04_File_format</string>
+    <string name="input_title">書込文字</string>
+    <string name="input" />
+    <string name="kakikomi_button">書込ボタン</string>
+    <string name="yomikomi_button">読込ボタン</string>
 </resources>
